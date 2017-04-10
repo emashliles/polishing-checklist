@@ -15,7 +15,7 @@
 
 - Exists
 - Contains
-..- Build/Run instructions including language version
-..- Test running instructions
+  - Build/Run instructions including language version
+  - Test running instructions
 
 
