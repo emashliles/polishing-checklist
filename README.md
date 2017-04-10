@@ -1,17 +1,17 @@
 # Polishing Checklist
 
-# Formatting
+## Formatting
 
 - Whitespace
 - End of Files
 - Line Endings
 
-# CI
+## CI
 
 - Exists
 - Green
 
-# Readme
+## Readme
 
 - Exists
 - Contains
