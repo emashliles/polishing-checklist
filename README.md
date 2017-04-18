@@ -17,5 +17,6 @@
 - Contains
   - Build/Run instructions including language version
   - Test running instructions
+  - CI link
 
 
